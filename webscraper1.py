@@ -54,3 +54,4 @@ if __name__ == "__main__":
     finally:
         driver.quit()
         print("Web driver closed.")
+# Code Sources: https://brightdata.com/blog/how-tos/web-scraping-with-python and https://medium.com/@spaw.co/how-to-extract-content-from-a-div-tag-using-beautifulsoup-in-python-45c4acedd727
